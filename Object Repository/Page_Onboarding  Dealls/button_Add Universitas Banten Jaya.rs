@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Universitas Banten Jaya</name>
+   <tag></tag>
+   <elementGuidId>2388863c-1f71-46fb-ac54-25d8f7edbaa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac142a60-781a-443e-9bab-16ef511b8130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3a3512ad-5cc1-478e-b15d-b03c68c700fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-[34px] w-full items-center gap-2 px-4 text-neutral-100 text-xs</value>
+      <webElementGuid>20c08b81-65bc-4bbf-9917-dd7a3ee2b327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add `Universitas Banten Jaya`</value>
+      <webElementGuid>6c1d76fb-b65b-4628-8fac-4559ba96097f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;ant-select-dropdown DropdownUniversity_popup_single__xlOzm z-50 ant-select-dropdown-empty ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/button[@class=&quot;flex h-[34px] w-full items-center gap-2 px-4 text-neutral-100 text-xs&quot;]</value>
+      <webElementGuid>c9a47e1b-cbf2-49d3-a6fb-d7dae79e800e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>43925cb1-9df6-41ca-90c0-75cf9194065f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='closedOpportunity'])[1]/following::button[1]</value>
+      <webElementGuid>2028562c-5a9b-45fa-b1bb-968e61033223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='openOpportunity'])[1]/following::button[1]</value>
+      <webElementGuid>9fc05bf5-98fb-40ce-b139-37b751402457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add `']/parent::*</value>
+      <webElementGuid>6f993662-89b3-482e-b4c0-c56c3e89fcd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>d6e7a20c-054b-4e37-872d-7c68f0ea664e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add `Universitas Banten Jaya`' or . = 'Add `Universitas Banten Jaya`')]</value>
+      <webElementGuid>0af79951-5176-4f95-a58c-4c20fa55f4d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

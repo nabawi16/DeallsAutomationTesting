@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LokerMentoringPerusahaanEventsAI CV Ana_a5e262</name>
+   <tag></tag>
+   <elementGuidId>2883ae5f-8e56-445d-93db-f5b14df60b92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navbar']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5bbb39d-9cbd-4374-afe3-81f131915e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 py-2 xl:px-8</value>
+      <webElementGuid>fcc3f82e-9d59-4cb5-a22e-bfc887df9808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LokerMentoringPerusahaanEventsAI CV Analyzer IDN</value>
+      <webElementGuid>f41add45-3d60-4b99-822f-ae107dbed861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navbar&quot;)/div[@class=&quot;mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 py-2 xl:px-8&quot;]</value>
+      <webElementGuid>0b9073e9-129d-4a93-a928-563d40ed692d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navbar']/div</value>
+      <webElementGuid>809c8505-6cf7-45e7-ac8c-4ebdf376c4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div</value>
+      <webElementGuid>195cb446-3bee-440a-9275-682ed0f4aa6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LokerMentoringPerusahaanEventsAI CV Analyzer IDN' or . = 'LokerMentoringPerusahaanEventsAI CV Analyzer IDN')]</value>
+      <webElementGuid>aaf1f4d0-acbc-4ef1-97b0-0863dd089618</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

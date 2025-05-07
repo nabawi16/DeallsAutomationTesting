@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>2d892faa-4112-4d4d-98e3-e06a95736189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/main[@class=&quot;relative min-h-screen bg-neutral-5&quot;]/div[@class=&quot;min-h-screen min-w-screen px-4 md:px-0 PersonalIDCardForm_personal_id_card_form__fWHgm&quot;]/div[@class=&quot;relative z-10 mt-8 md:mb-0 IDCard_id_card_v2__G6AiL&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;relative mx-auto min-h-[456px] rounded-lg border-[1.8px] border-neutral-100 bg-white p-4 md:h-auto md:min-h-[295px] md:p-6 IDCardBox_id_card_box_v2__jnhla md:!w-[474px] w-full&quot;]/div[@class=&quot;mt-4 flex flex-col items-center justify-center md:flex-row md:items-start md:justify-start&quot;]/div[@class=&quot;md:w-[89px]&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative flex h-[94px] w-[90px] items-center justify-center overflow-hidden rounded-[7px] md:h-[92px] md:w-[88px] bg-tertiary-violet-90&quot;]/span[@class=&quot;-translate-y-1/2 absolute top-1/2 flex h-full w-full items-center justify-center&quot;]/div[@class=&quot;ant-upload ant-upload-select ant-upload-select-text&quot;]/span[@class=&quot;ant-upload&quot;]/div[@class=&quot;absolute inset-0 flex items-center justify-center&quot;]/div[@class=&quot;flex h-8 w-8 items-center justify-center rounded-full bg-black/40&quot;]/svg[1]/path[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>886d631e-a0e4-4493-9145-6689ce0e7038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15.0225 4.47759V7.15285C15.0225 7.15285 13.252 7.1618 13.2431 7.15285V4.47759H10.5741C10.5741 4.47759 10.583 2.69706 10.5741 2.68812H13.2431V0.00390625H15.0225V2.68812H17.6916V4.47759H15.0225ZM12.3535 8.05654V5.37233H9.68441V2.68812H2.56696C1.58831 2.68812 0.787598 3.49338 0.787598 4.47759V15.2144C0.787598 16.1986 1.58831 17.0039 2.56696 17.0039H13.2431C14.2218 17.0039 15.0225 16.1986 15.0225 15.2144V8.05654H12.3535ZM2.56696 15.2144L5.23601 11.6355L7.01537 14.3197L9.68441 10.7407L13.2431 15.2144H2.56696Z</value>
+      <webElementGuid>0145bfb8-9748-4774-a550-532cba9c72b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>8473fe24-61b6-45fb-a65d-142ac247f778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;relative min-h-screen bg-neutral-5&quot;]/div[@class=&quot;min-h-screen min-w-screen px-4 md:px-0 PersonalIDCardForm_personal_id_card_form__fWHgm&quot;]/div[@class=&quot;relative z-10 mt-8 md:mb-0 IDCard_id_card_v2__G6AiL&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;relative mx-auto min-h-[456px] rounded-lg border-[1.8px] border-neutral-100 bg-white p-4 md:h-auto md:min-h-[295px] md:p-6 IDCardBox_id_card_box_v2__jnhla md:!w-[474px] w-full&quot;]/div[@class=&quot;mt-4 flex flex-col items-center justify-center md:flex-row md:items-start md:justify-start&quot;]/div[@class=&quot;md:w-[89px]&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative flex h-[94px] w-[90px] items-center justify-center overflow-hidden rounded-[7px] md:h-[92px] md:w-[88px] bg-tertiary-violet-90&quot;]/span[@class=&quot;-translate-y-1/2 absolute top-1/2 flex h-full w-full items-center justify-center&quot;]/div[@class=&quot;ant-upload ant-upload-select ant-upload-select-text&quot;]/span[@class=&quot;ant-upload&quot;]/div[@class=&quot;absolute inset-0 flex items-center justify-center&quot;]/div[@class=&quot;flex h-8 w-8 items-center justify-center rounded-full bg-black/40&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>2f55ba14-8380-426b-90d4-0f027c42ff3d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

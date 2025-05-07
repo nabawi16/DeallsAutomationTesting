@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add PT Pencari Cinta Sejati</name>
+   <tag></tag>
+   <elementGuidId>bc3bc845-ede0-4359-a6b6-564d16aa34a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70d48b29-7d2c-45bb-aaa4-cc89a419a378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>85f0287c-bd53-47c6-bc47-4bbf83c2e557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-[34px] w-full items-center gap-2 px-4 text-neutral-100 text-xs</value>
+      <webElementGuid>647c48ee-91ae-45c6-aab3-ce92012264a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add `PT Pencari Cinta Sejati`</value>
+      <webElementGuid>2cfad682-3698-442c-8819-f352883b9562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;experience-form-list&quot;)/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;overflow-hidden rounded-lg border border-neutral-100 shadow-[3px_3px_0px_rgba(0,0,0,0.1)] dropdown_system_v1__hvsTx OnboardingExperienceForm_onboarding_experience_form__ibdfE&quot;]/div[@class=&quot;bg-white px-4 pt-4 pb-6 lg:px-[22px] lg:pb-5&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;grid h-full w-full grid-cols-1 items-start gap-3 lg:grid-cols-[auto_288px]&quot;]/div[@class=&quot;Select_system_v1__KvWIf w-full Select_system_select_sm__TWVOd&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;ant-form-item FormItem_style_v1__95_Jx m-0&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-focused ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[2]/div[1]/div[@class=&quot;ant-select-dropdown dropdown_popup_single__76HQ5 z-10 ant-select-dropdown-empty ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/button[@class=&quot;flex h-[34px] w-full items-center gap-2 px-4 text-neutral-100 text-xs&quot;]</value>
+      <webElementGuid>ae16c324-ea72-40bc-80b6-be5696f5fefe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>767d8ce4-16b4-4b0a-a9fd-575404404c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='experience-form-list']/div/div/div/div[2]/form/div[2]/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>3cde5c07-f1be-415e-815b-090d6f76f6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cth : Tokopedia, Universitas Atmajaya'])[1]/following::button[1]</value>
+      <webElementGuid>addbc27b-b4a7-49e6-94f9-54e63ca98e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan/Nama Institusi'])[2]/following::button[1]</value>
+      <webElementGuid>350edca7-9fba-48e5-857f-2ae52547ccfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tingkat'])[1]/preceding::button[1]</value>
+      <webElementGuid>3504e4a6-2900-4b8d-b362-b30cd9b6ea37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi/Tingkat'])[1]/preceding::button[1]</value>
+      <webElementGuid>3d444245-634b-4295-baeb-6a8697e3514b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add `']/parent::*</value>
+      <webElementGuid>413698e0-1a27-4e41-95e3-9054a9e8d27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>b0be713c-e2da-421c-b2b2-a0278fb8757b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add `PT Pencari Cinta Sejati`' or . = 'Add `PT Pencari Cinta Sejati`')]</value>
+      <webElementGuid>df07d49e-489d-47fc-afcd-35cc1456d723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

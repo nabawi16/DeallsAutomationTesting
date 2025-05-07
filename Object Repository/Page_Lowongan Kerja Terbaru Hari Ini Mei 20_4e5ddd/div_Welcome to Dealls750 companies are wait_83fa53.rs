@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to Dealls750 companies are wait_83fa53</name>
+   <tag></tag>
+   <elementGuidId>cc1a22ee-2409-4605-8405-705dce8ee630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[2]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13f6a55c-1444-41f2-9128-f3991fb474ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7291dc4c-37cc-4dbb-863c-d027a22b1243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-modal-wrap</value>
+      <webElementGuid>3f362bee-0982-4f45-b611-35e5a9ca0cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Dealls!750+ companies are waiting for your applicationTo get started:You can directly apply to jobs while we are analyzing your profile.Your profile completion is 67%. Complete to get higher visibility to recruiters.We found 8 opportunities matched to your profile.Start Exploring</value>
+      <webElementGuid>83b6e849-94af-44fc-9634-411fdedbc5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[2]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]</value>
+      <webElementGuid>63c367f0-4cd4-4c1b-9fed-434af3dbf71d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[2]/following::div[4]</value>
+      <webElementGuid>7beed089-2457-460c-b83a-823d1ddc8b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI CV Analyzer'])[2]/following::div[5]</value>
+      <webElementGuid>44a32d6b-4380-4e83-b678-8570f18e537f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>30df46b0-e06a-4464-b48a-88933f2fa502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome to Dealls!750+ companies are waiting for your applicationTo get started:You can directly apply to jobs while we are analyzing your profile.Your profile completion is 67%. Complete to get higher visibility to recruiters.We found 8 opportunities matched to your profile.Start Exploring' or . = 'Welcome to Dealls!750+ companies are waiting for your applicationTo get started:You can directly apply to jobs while we are analyzing your profile.Your profile completion is 67%. Complete to get higher visibility to recruiters.We found 8 opportunities matched to your profile.Start Exploring')]</value>
+      <webElementGuid>985bb710-b5cc-4023-aa23-eeae148a32a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

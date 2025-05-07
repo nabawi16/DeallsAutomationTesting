@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Up With Email</name>
+   <tag></tag>
+   <elementGuidId>bbc33b7a-be9c-475a-8108-36d60d7bfa0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d84331f1-3493-42f0-913f-2b88b09bdfea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-[26px] md:h-9 w-full border items-center justify-center rounded-[71px] text-3xs font-bold md:text-xs md:gap-2 gap-1 text-white border-neutral-100 bg-tertiary-violet-50 hover:text-white</value>
+      <webElementGuid>fb4b9f7d-373a-42ce-93c3-2023e914b4bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/onboarding?step=1</value>
+      <webElementGuid>a4ff576c-9ce2-4609-864f-fbcdc0d393c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up With Email</value>
+      <webElementGuid>fc0ac645-4be9-4acd-ac52-690a3f8e8cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;relative min-h-screen bg-neutral-5&quot;]/div[@class=&quot;relative mt-[85.4px] min-h-screen pt-10 pb-10&quot;]/div[@class=&quot;flex w-full items-center justify-center lg:mx-auto lg:w-fit&quot;]/div[@class=&quot;!px-4 mt-6 flex flex-row flex-wrap items-start justify-center gap-4 md:gap-[42px]&quot;]/div[@class=&quot;flex min-h-[244px] w-[198px] flex-col items-center rounded-lg border-[1.2px] border-neutral-100 bg-neutral-0 p-3.5 shadow-[4px_4px_0_0_rgba(0,0,0,0.10)] md:h-[357px] md:w-[268px] md:p-6&quot;]/div[@class=&quot;mt-auto flex w-full flex-col gap-2 md:pt-[26px]&quot;]/a[@class=&quot;flex h-[26px] md:h-9 w-full border items-center justify-center rounded-[71px] text-3xs font-bold md:text-xs md:gap-2 gap-1 text-white border-neutral-100 bg-tertiary-violet-50 hover:text-white&quot;]</value>
+      <webElementGuid>65e7fc84-27d3-43f0-99d3-c13b8e568721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div/div/div[2]/a</value>
+      <webElementGuid>c58ff22c-5fc5-4e7e-bd0c-02a8183f06de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Up With Email')]</value>
+      <webElementGuid>02127b08-be20-4b8c-ab05-b73678d7c642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get 1-on-1 mentoring, 100% free'])[1]/following::a[1]</value>
+      <webElementGuid>d5defc6c-aaec-46de-9d1d-b81855a6a824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply to jobs with priority slot'])[1]/following::a[1]</value>
+      <webElementGuid>cef88331-7bb6-4c51-b593-8db535829961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up With Google'])[1]/preceding::a[1]</value>
+      <webElementGuid>4c4b5a64-4b8d-4389-85c7-1c8ceb9f5599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mentor'])[1]/preceding::a[1]</value>
+      <webElementGuid>58e658b3-7907-4589-a0c3-de7caed3eb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up With Email']/parent::*</value>
+      <webElementGuid>efdb1a4e-8147-4868-99a7-f2318aef5559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/onboarding?step=1')]</value>
+      <webElementGuid>396c4049-29b8-4f64-90ff-9ef4f1cac7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>f363d308-b11e-432d-8a94-9886ded0b705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/onboarding?step=1' and (text() = 'Sign Up With Email' or . = 'Sign Up With Email')]</value>
+      <webElementGuid>8cf527f1-931c-431d-b877-67562e75907b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

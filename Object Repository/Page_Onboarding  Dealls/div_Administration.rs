@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Administration</name>
+   <tag></tag>
+   <elementGuidId>b0a25587-0127-45d4-9b6a-f57951e86183</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='experience-form-list']/div/div/div/div[2]/form/div[2]/div[6]/div/div/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-dropdown.dropdown_popup_single__76HQ5.z-10.ant-select-dropdown-placement-topLeft > div > div.rc-virtual-list > div.rc-virtual-list-holder > div > div.rc-virtual-list-holder-inner > div.ant-select-item.ant-select-item-option.ant-select-item-option-active > div.ant-select-item-option-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdea4968-6eac-4c97-8dc9-158e92df591d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>407ebec0-5e26-4aca-a79e-1880643ba4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administration</value>
+      <webElementGuid>02050787-6bc2-4958-b19e-566ffbed609f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;experience-form-list&quot;)/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;overflow-hidden rounded-lg border border-neutral-100 shadow-[3px_3px_0px_rgba(0,0,0,0.1)] dropdown_system_v1__hvsTx OnboardingExperienceForm_onboarding_experience_form__ibdfE&quot;]/div[@class=&quot;bg-white px-4 pt-4 pb-6 lg:px-[22px] lg:pb-5&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;grid h-full w-full grid-cols-1 items-start gap-3 lg:grid-cols-[auto_288px]&quot;]/div[@class=&quot;Select_system_v1__KvWIf w-full Select_system_select_sm__TWVOd&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;ant-form-item FormItem_style_v1__95_Jx m-0&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-focused ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[2]/div[1]/div[@class=&quot;ant-select-dropdown dropdown_popup_single__76HQ5 z-10 ant-select-dropdown-placement-topLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>ec571ac2-4a59-4555-98bb-a941ebfaeeee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='experience-form-list']/div/div/div/div[2]/form/div[2]/div[6]/div/div/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>27584fa1-b8ac-4706-ad02-450cc16b0ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add `admin`'])[1]/following::div[9]</value>
+      <webElementGuid>c5a3ec13-3625-43ed-8818-dd3d7af10c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cth : Manajer Produk'])[1]/following::div[13]</value>
+      <webElementGuid>472d2e85-fe41-4d4e-82ad-f7f847dc7a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Administrative'])[1]/preceding::div[1]</value>
+      <webElementGuid>e1301099-dcda-4310-b09d-da3d4be776bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Admin'])[1]/preceding::div[3]</value>
+      <webElementGuid>382f9d18-bd7a-4a96-af0b-7f056cb1f509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Administration']/parent::*</value>
+      <webElementGuid>dbf36f47-1252-4e95-b6ef-e8fdd7f0a37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>45682b6c-74d0-4187-b278-2dedd217c2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Administration' or . = 'Administration')]</value>
+      <webElementGuid>88fe04c4-ae05-4617-b343-5369eb3111ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,23 +22,11 @@ WebUI.openBrowser(GlobalVariable.G_LoginURL)
 WebUI.callTestCase(findTestCase('General Login/Login'), [('email') : 'kukutastrea@gmail.com', ('password') : 'astrea!6'], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Lowongan Kerja Terbaru Hari Ini Mei 20_4e5ddd/a_Mentoring'))
+WebUI.click(findTestObject('Object Repository/Page_Lowongan Kerja Terbaru Hari Ini Mei 20_4e5ddd/svg'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Tingkatkan Karirmu Bersama Career Ment_f89c91/div_EksplorSesi SayaTingkatanKetersediaan T_f583ae'), 
-    GlobalVariable.G_Timeout)
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Object Repository/Page_Tingkatkan Karirmu Bersama Career Ment_f89c91/input_Sesi Saya_searchMentor'), 
-    'IT')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Tingkatkan Karirmu Bersama Career Ment_f89c91/input_Sesi Saya_searchMentor'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.delay(10)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Tingkatkan Karirmu Bersama Career Ment_f89c91/div_EksplorSesi SayaTingkatanKetersediaan T_facba0'), 
-    GlobalVariable.G_Timeout)
-
-WebUI.takeFullPageScreenshot()
+WebUI.click(findTestObject('Object Repository/Page_Lowongan Kerja Terbaru Hari Ini Mei 20_4e5ddd/button_Keluar'))
 
 WebUI.closeBrowser()
 

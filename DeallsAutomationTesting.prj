@@ -6,11 +6,12 @@
    <UUID>8ba13d09-1fa4-44ff-8ac4-9ad9c8550cb6</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.4</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\ahmad\Katalon Studio\DeallsAutomationTesting\DeallsAutomationTesting.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

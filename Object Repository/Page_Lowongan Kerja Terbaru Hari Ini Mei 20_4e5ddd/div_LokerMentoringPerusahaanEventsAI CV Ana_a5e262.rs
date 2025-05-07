@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b5bbb39d-9cbd-4374-afe3-81f131915e43</webElementGuid>
+      <webElementGuid>2103283a-7684-444e-977b-925bf8c6ad84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 py-2 xl:px-8</value>
-      <webElementGuid>fcc3f82e-9d59-4cb5-a22e-bfc887df9808</webElementGuid>
+      <webElementGuid>9a91bfe3-b157-4655-9faa-fb9e061b6f1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LokerMentoringPerusahaanEventsAI CV Analyzer IDN</value>
-      <webElementGuid>f41add45-3d60-4b99-822f-ae107dbed861</webElementGuid>
+      <webElementGuid>8447e9bb-532c-4edc-a844-51aeec71b53d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-navbar&quot;)/div[@class=&quot;mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 py-2 xl:px-8&quot;]</value>
-      <webElementGuid>0b9073e9-129d-4a93-a928-563d40ed692d</webElementGuid>
+      <webElementGuid>76daad79-f7c4-4b7b-8459-dfe02807ef76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-navbar']/div</value>
-      <webElementGuid>809c8505-6cf7-45e7-ac8c-4ebdf376c4e2</webElementGuid>
+      <webElementGuid>85e8b176-3cb1-4567-aa0a-a64e8f78f9bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//header/div/div</value>
-      <webElementGuid>195cb446-3bee-440a-9275-682ed0f4aa6d</webElementGuid>
+      <webElementGuid>a97ca758-f39f-49f2-803d-3b34deedfe44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +71,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'LokerMentoringPerusahaanEventsAI CV Analyzer IDN' or . = 'LokerMentoringPerusahaanEventsAI CV Analyzer IDN')]</value>
-      <webElementGuid>aaf1f4d0-acbc-4ef1-97b0-0863dd089618</webElementGuid>
+      <webElementGuid>7655ed33-718b-4918-b84d-0bdd5247caf9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

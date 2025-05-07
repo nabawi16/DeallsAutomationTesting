@@ -17,12 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Page_Login/txt_email'), email)
+WebUI.openBrowser(GlobalVariable.G_LoginURL)
 
-WebUI.setText(findTestObject('Page_Login/txt_password'), password)
+WebUI.setText(findTestObject('Object Repository/Page_Sign In  Dealls/input__basic_email'), email)
 
-WebUI.click(findTestObject('Page_Sign In  Dealls/button_Sign In'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign In  Dealls/input__basic_password'), password)
 
-WebUI.verifyElementPresent(findTestObject('Page_Lowongan Kerja Terbaru Hari Ini Mei 20_4e5ddd/div_LokerMentoringPerusahaanEventsAI CV Ana_a5e262'), 
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In  Dealls/button_Sign In'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Lowongan Kerja Terbaru Hari Ini Mei 20_4e5ddd/div_LokerMentoringPerusahaanEventsAI CV Ana_a5e262'), 
     GlobalVariable.G_Timeout)
+
+WebUI.takeScreenshot()
+
+WebUI.closeBrowser()
 

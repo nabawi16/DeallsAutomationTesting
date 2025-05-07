@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jobs related to Quality AssuranceShowin_ccf21f</name>
+   <tag></tag>
+   <elementGuidId>9eac7d60-9ee2-4c97-bb35-ab0ded591991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/main/div/main/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fbf1d0d1-f4fc-4de9-b3a7-2fe00605954b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full xl:w-[1162px]</value>
+      <webElementGuid>d5353bf0-4642-4f01-88a1-9fa61dbe0def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jobs related to &quot;Quality Assurance&quot;Showing 18 resultsTingkat PengalamanJenis LokerTipeFasilitasGajiKotaPaling relevanLoker Butuh CepatQuality Assurance (QA) Engineer PT. Bersih itu sehatParuh waktu Remote Min. FreshgradRp1.510.000 – 2.500.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 1st Year College StudentRp5.000.000 – 8.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 4th Year College StudentRp5.000.000 – 10.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang, Paruh waktu, Freelance, Kontrak Remote Min. 1st Year College StudentRp2.000.000 – 15.000.000Quality Assurance (QA) Tester Sicepat banget 1Penuh waktu Remote Min. 1st Year College StudentRp5.000.000 – 10.000.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • Jombang RegencyMin. 1 years of experienceNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Engineer Sicepat banget 1Magang On-site • DepokMin. FreshgradUnpaidRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance Remote FreshgradNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu On-site • Jakarta SelatanMin. 1 years of experienceRp7.500.000 – 10.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu Remote Min. FreshgradRp1.000.000 – 5.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester PT MAWAR BIRUPenuh waktu Remote Min. 4th Year College StudentNegotiableRekruter aktif 7h laluQuality Assurance (QA) Tester Makan BankPenuh waktu Remote Min. FreshgradNegotiableQuality Assurance (QA) Tester test uncheck import applicantsPenuh waktu Remote Min. 1st Year College StudentNegotiableQuality Assurance (QA) Engineer Test Antifraud sblm verifPenuh waktu Remote Min. 4th Year College StudentRp3.000.000 – 4.000.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Kacang GorengPenuh waktu Hybrid • Jakarta PusatMin. 4 years of experienceRp14.000.000 – 20.000.000Rekruter aktif 7h laluQuality Assurance (QA) Engineer PT. Bersih itu sehatPenuh waktu Remote Min. FreshgradRp2.500.000 – 4.000.005Rekruter aktif 7h laluLebih BanyakJobs that need &quot;Quality Assurance&quot; as skillsQA Engineer (Freshgrad) Company APenuh waktu Remote FreshgradRp10.000.000 – 18.500.000</value>
+      <webElementGuid>69ae2608-a5ce-4dab-800e-28ed2d8522dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen max-w-screen flex-col&quot;]/main[@class=&quot;mb-10 lg:mx-auto&quot;]/div[1]/main[@class=&quot;mx-auto w-full max-w-[1440px] px-4 md:px-[43px]&quot;]/div[@class=&quot;w-full xl:w-[1162px]&quot;]</value>
+      <webElementGuid>6c9fd59d-c0ea-48ba-8ad8-54c6896bee8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/main/div/main/div</value>
+      <webElementGuid>22036f83-b2ff-4af5-81a3-b61cb984061e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Homepage'])[1]/following::div[2]</value>
+      <webElementGuid>1681a21d-9b0c-4395-b0c9-af315633258e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI CV Analyzer'])[1]/following::div[9]</value>
+      <webElementGuid>ddbf9447-84a5-42ac-9daf-d0427fa1ad9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/main/div</value>
+      <webElementGuid>3f0a2cff-5170-4874-8a26-8dc54a63fd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jobs related to &quot;Quality Assurance&quot;Showing 18 resultsTingkat PengalamanJenis LokerTipeFasilitasGajiKotaPaling relevanLoker Butuh CepatQuality Assurance (QA) Engineer PT. Bersih itu sehatParuh waktu Remote Min. FreshgradRp1.510.000 – 2.500.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 1st Year College StudentRp5.000.000 – 8.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 4th Year College StudentRp5.000.000 – 10.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang, Paruh waktu, Freelance, Kontrak Remote Min. 1st Year College StudentRp2.000.000 – 15.000.000Quality Assurance (QA) Tester Sicepat banget 1Penuh waktu Remote Min. 1st Year College StudentRp5.000.000 – 10.000.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • Jombang RegencyMin. 1 years of experienceNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Engineer Sicepat banget 1Magang On-site • DepokMin. FreshgradUnpaidRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance Remote FreshgradNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu On-site • Jakarta SelatanMin. 1 years of experienceRp7.500.000 – 10.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu Remote Min. FreshgradRp1.000.000 – 5.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester PT MAWAR BIRUPenuh waktu Remote Min. 4th Year College StudentNegotiableRekruter aktif 7h laluQuality Assurance (QA) Tester Makan BankPenuh waktu Remote Min. FreshgradNegotiableQuality Assurance (QA) Tester test uncheck import applicantsPenuh waktu Remote Min. 1st Year College StudentNegotiableQuality Assurance (QA) Engineer Test Antifraud sblm verifPenuh waktu Remote Min. 4th Year College StudentRp3.000.000 – 4.000.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Kacang GorengPenuh waktu Hybrid • Jakarta PusatMin. 4 years of experienceRp14.000.000 – 20.000.000Rekruter aktif 7h laluQuality Assurance (QA) Engineer PT. Bersih itu sehatPenuh waktu Remote Min. FreshgradRp2.500.000 – 4.000.005Rekruter aktif 7h laluLebih BanyakJobs that need &quot;Quality Assurance&quot; as skillsQA Engineer (Freshgrad) Company APenuh waktu Remote FreshgradRp10.000.000 – 18.500.000' or . = 'Jobs related to &quot;Quality Assurance&quot;Showing 18 resultsTingkat PengalamanJenis LokerTipeFasilitasGajiKotaPaling relevanLoker Butuh CepatQuality Assurance (QA) Engineer PT. Bersih itu sehatParuh waktu Remote Min. FreshgradRp1.510.000 – 2.500.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 1st Year College StudentRp5.000.000 – 8.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang Remote Min. 4th Year College StudentRp5.000.000 – 10.000.000Quality Assurance (QA) Tester Company APenuh waktu, Magang, Paruh waktu, Freelance, Kontrak Remote Min. 1st Year College StudentRp2.000.000 – 15.000.000Quality Assurance (QA) Tester Sicepat banget 1Penuh waktu Remote Min. 1st Year College StudentRp5.000.000 – 10.000.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Penuh waktu On-site • Jombang RegencyMin. 1 years of experienceNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance On-site • DepokMin. 1 years of experienceRp100.000 – 600.000Rekruter aktif 44m laluQuality Assurance (QA) Engineer Sicepat banget 1Magang On-site • DepokMin. FreshgradUnpaidRekruter aktif 44m laluQuality Assurance (QA) Tester Sicepat banget 1Freelance Remote FreshgradNegotiableRekruter aktif 44m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu On-site • Jakarta SelatanMin. 1 years of experienceRp7.500.000 – 10.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester Test CompanyPenuh waktu Remote Min. FreshgradRp1.000.000 – 5.000.000Rekruter aktif 11m laluQuality Assurance (QA) Tester PT MAWAR BIRUPenuh waktu Remote Min. 4th Year College StudentNegotiableRekruter aktif 7h laluQuality Assurance (QA) Tester Makan BankPenuh waktu Remote Min. FreshgradNegotiableQuality Assurance (QA) Tester test uncheck import applicantsPenuh waktu Remote Min. 1st Year College StudentNegotiableQuality Assurance (QA) Engineer Test Antifraud sblm verifPenuh waktu Remote Min. 4th Year College StudentRp3.000.000 – 4.000.000Rekruter aktif 7h laluQuality Assurance (QA) Tester Kacang GorengPenuh waktu Hybrid • Jakarta PusatMin. 4 years of experienceRp14.000.000 – 20.000.000Rekruter aktif 7h laluQuality Assurance (QA) Engineer PT. Bersih itu sehatPenuh waktu Remote Min. FreshgradRp2.500.000 – 4.000.005Rekruter aktif 7h laluLebih BanyakJobs that need &quot;Quality Assurance&quot; as skillsQA Engineer (Freshgrad) Company APenuh waktu Remote FreshgradRp10.000.000 – 18.500.000')]</value>
+      <webElementGuid>93449559-361c-48ef-9fea-89813c258d48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

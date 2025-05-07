@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_searchLokerByJobTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbdeff7e-daf1-493a-beb1-9e4236c10fbf</testCaseGuid>
+</TestCaseEntity>

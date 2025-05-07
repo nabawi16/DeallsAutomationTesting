@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>3297b2d0-cfb4-4cca-b6b4-d556315b84fe</webElementGuid>
+      <webElementGuid>03882ce4-15ca-4d41-9d1b-051f22c37b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>width</name>
       <type>Main</type>
       <value>28</value>
-      <webElementGuid>74410a93-d38b-4216-8ba7-99a0a324caf3</webElementGuid>
+      <webElementGuid>6600c493-696c-45c7-af6c-9b821acd3cea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>height</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>ea448ae3-1fcb-4f43-a0e4-cd65f5f40e48</webElementGuid>
+      <webElementGuid>4a767571-a087-4d75-84b6-4d7ae706ebe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 28 18</value>
-      <webElementGuid>c8d39174-103b-42c6-9798-bb1c1799d5a4</webElementGuid>
+      <webElementGuid>4c3088b1-927b-4a43-b3bd-b53ba0f5e737</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>white</value>
-      <webElementGuid>b603cf66-316d-47ab-ae4e-b435c65378c2</webElementGuid>
+      <webElementGuid>a6fb2ca0-795b-4c03-8e01-2b5816cf0257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>93ebd5d2-73b3-4b57-a5ee-b49ca478b75c</webElementGuid>
+      <webElementGuid>bb07e4b5-eb26-4bab-93d2-fd205449a534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-navbar&quot;)/div[@class=&quot;mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 py-2 xl:px-8&quot;]/div[@class=&quot;flex h-full items-center gap-4&quot;]/button[@class=&quot;xl:hidden block&quot;]/svg[1]</value>
-      <webElementGuid>661e574e-eeb5-4d18-b6b3-7ae7813c1073</webElementGuid>
+      <webElementGuid>f9f7b3e3-38d9-4825-8917-e2a3c8776857</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IDN'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>e8dbee38-0dcd-4141-aa9b-10bf07032354</webElementGuid>
+      <webElementGuid>44e28434-9520-4b1e-801b-36b9d3d5baa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AI CV Analyzer'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>93e7cbb9-195e-4a6b-a821-16e1cbbb40a8</webElementGuid>
+      <webElementGuid>522a283e-7afc-48a5-bb2d-8519f05f552b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#LebihPasti'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>ed6566ab-2800-4abb-91f7-1ac74297ea3a</webElementGuid>
+      <webElementGuid>46698e3d-b6e4-41b4-ab4c-b5db26c0eedd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

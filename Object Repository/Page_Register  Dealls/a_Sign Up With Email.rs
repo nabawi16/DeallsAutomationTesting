@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/main/div/div[3]/div/div/div[2]/a</value>
+         <value>//div[@id='__next']/main/div/div[3]/div/div[2]/div[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d84331f1-3493-42f0-913f-2b88b09bdfea</webElementGuid>
+      <webElementGuid>83b049f0-a785-4d79-b697-f4e22274e192</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>flex h-[26px] md:h-9 w-full border items-center justify-center rounded-[71px] text-3xs font-bold md:text-xs md:gap-2 gap-1 text-white border-neutral-100 bg-tertiary-violet-50 hover:text-white</value>
-      <webElementGuid>fb4b9f7d-373a-42ce-93c3-2023e914b4bc</webElementGuid>
+      <webElementGuid>84849f08-ec95-4bc7-b469-7a72065fe466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/onboarding?step=1</value>
-      <webElementGuid>a4ff576c-9ce2-4609-864f-fbcdc0d393c5</webElementGuid>
+      <value>/mentor/onboarding?step=1</value>
+      <webElementGuid>502f2144-0123-48b8-8dcf-bbe68b0fd6ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign Up With Email</value>
-      <webElementGuid>fc0ac645-4be9-4acd-ac52-690a3f8e8cef</webElementGuid>
+      <webElementGuid>bae0bc38-cf8e-4edc-8acd-ffcab904f855</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,10 +55,82 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/main[@class=&quot;relative min-h-screen bg-neutral-5&quot;]/div[@class=&quot;relative mt-[85.4px] min-h-screen pt-10 pb-10&quot;]/div[@class=&quot;flex w-full items-center justify-center lg:mx-auto lg:w-fit&quot;]/div[@class=&quot;!px-4 mt-6 flex flex-row flex-wrap items-start justify-center gap-4 md:gap-[42px]&quot;]/div[@class=&quot;flex min-h-[244px] w-[198px] flex-col items-center rounded-lg border-[1.2px] border-neutral-100 bg-neutral-0 p-3.5 shadow-[4px_4px_0_0_rgba(0,0,0,0.10)] md:h-[357px] md:w-[268px] md:p-6&quot;]/div[@class=&quot;mt-auto flex w-full flex-col gap-2 md:pt-[26px]&quot;]/a[@class=&quot;flex h-[26px] md:h-9 w-full border items-center justify-center rounded-[71px] text-3xs font-bold md:text-xs md:gap-2 gap-1 text-white border-neutral-100 bg-tertiary-violet-50 hover:text-white&quot;]</value>
-      <webElementGuid>65e7fc84-27d3-43f0-99d3-c13b8e568721</webElementGuid>
+      <webElementGuid>1d4c50fe-be93-496a-815f-8eb6da83cd79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div/div[2]/div[2]/a</value>
+      <webElementGuid>8bff4039-3e2f-48b2-b7d5-d4dceb57032a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Sign Up With Email')])[2]</value>
+      <webElementGuid>2e917a73-0d9a-4bbd-934c-a1052c41727c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexible scheduling, no extensive commitment required'])[1]/following::a[1]</value>
+      <webElementGuid>992282cc-cc10-4372-bf3d-dd5449efea0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a lasting impact to passionate Indonesian youth'])[1]/following::a[1]</value>
+      <webElementGuid>9f5ee27d-31c8-4126-8ded-0191faa80203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up With Google'])[2]/preceding::a[1]</value>
+      <webElementGuid>41087fe9-ca9d-446a-b1b7-be52385dcc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employer'])[1]/preceding::a[1]</value>
+      <webElementGuid>3f3fb7bc-9100-4ac2-8168-ed7fba14cfb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mentor/onboarding?step=1')]</value>
+      <webElementGuid>4dc7472a-07a7-492b-a670-068ab45a981f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>4cab95c2-87c2-449b-9ae7-471a1a8348fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mentor/onboarding?step=1' and (text() = 'Sign Up With Email' or . = 'Sign Up With Email')]</value>
+      <webElementGuid>78bbc859-7e74-426a-be35-8e740cb439ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

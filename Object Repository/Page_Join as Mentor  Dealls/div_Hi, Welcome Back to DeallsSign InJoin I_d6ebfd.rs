@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hi, Welcome Back to DeallsSign InJoin I_d6ebfd</name>
+   <tag></tag>
+   <elementGuidId>9357a88d-e3b3-4c32-9340-05b91f860b9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh Bantuan ?'])[1]/following::div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25ad2439-46c2-48ea-90f5-ee995884d5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>e442deaf-f49e-454e-afb4-27e7a5f25628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-modal-wrap</value>
+      <webElementGuid>775b6cbd-3db9-429e-a946-9a8c9f2de771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi, Welcome Back to Dealls!Sign InJoin Indonesia’s #1 Jobs &amp; Mentoring PlatformEmailPasswordForgot Password ?Sign In Sign In with GoogleNew to Dealls? Sign Up</value>
+      <webElementGuid>2eb72d0d-afa1-4234-ae43-b078fee64f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]</value>
+      <webElementGuid>712d50d7-d54c-431f-91ef-07322956f54f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh Bantuan ?'])[1]/following::div[7]</value>
+      <webElementGuid>288478c0-9970-4f0c-bbfd-be2a48954005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mari Masuk'])[1]/following::div[8]</value>
+      <webElementGuid>fa10186c-d095-4daa-81f6-fde303c7d7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>44786530-5fa5-4e84-b327-83da3f2c59f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hi, Welcome Back to Dealls!Sign InJoin Indonesia’s #1 Jobs &amp; Mentoring PlatformEmailPasswordForgot Password ?Sign In Sign In with GoogleNew to Dealls? Sign Up' or . = 'Hi, Welcome Back to Dealls!Sign InJoin Indonesia’s #1 Jobs &amp; Mentoring PlatformEmailPasswordForgot Password ?Sign In Sign In with GoogleNew to Dealls? Sign Up')]</value>
+      <webElementGuid>66d429e2-31f0-4b97-87d5-e2b9d2459e0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
